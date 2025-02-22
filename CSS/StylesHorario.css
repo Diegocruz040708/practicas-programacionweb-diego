@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: #333;
+}
+table{ 
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #022b1d;
+    padding: 8px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+th{
+    background-color: #1921f3 ;
+}
+tr
+{
+    background-color: #addef5;
+}

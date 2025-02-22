@@ -16,8 +16,10 @@ th, td {
 }
 th{
     background-color: #4d53fc ;
+    color: black;
 }
 tr
 {
     background-color: #b6bcfd;
+    color: black;
 }

@@ -12,12 +12,12 @@ th, td {
     border: 1px solid #022b1d;
     padding: 8px;
     text-align: left;
-    color: rgb(255, 255, 255);
+    color: rgb(251, 250, 255);
 }
 th{
-    background-color: #1921f3 ;
+    background-color: #54557000 ;
 }
 tr
 {
-    background-color: #addef5;
+    background-color: #a4a6bb00;
 }

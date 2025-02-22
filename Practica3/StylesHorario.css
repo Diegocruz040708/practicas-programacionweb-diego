@@ -1,23 +1,30 @@
+/* Estilos para el título */
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     color: #333;
 }
-table{ 
+
+/* Estilos para la tabla */
+table {
     width: 100%;
     border-collapse: collapse;
 }
+
+/* Estilos para las filas y celdas */
 th, td {
     border: 1px solid #022b1d;
     padding: 8px;
     text-align: left;
-    color: rgb(251, 250, 255);
+    color: black;
 }
-th{
-    background-color: #4d53fc ;
+
+th {
+    background-color: #8765ff;
+    color: black;
 }
-tr
-{
-    background-color: #b6bcfd;
+
+tr {
+    background-color: #d8dcff;
 }

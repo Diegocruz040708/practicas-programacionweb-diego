@@ -1,6 +1,6 @@
 .boton{
         border-radius:15px ;
-        background-color: rgb(25, 0, 255);
+        background-color: rgb(99, 188, 247);
         color: white;
         padding: 5px 15px;
         text-align: end;
@@ -11,5 +11,5 @@
 .titulo{
         font-family: 'Courier New', Courier, monospace;
         font-size: 35px;
-        color: #40004d;
+        color: #2f00da;
 }
